@@ -5,5 +5,5 @@
 ## Máquinas Resueltas
 
 | Plataforma | Máquina | Reporte Técnico |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | Dockerlabs | **Obsession** | [Ver Reporte PDF](./Obsession-Dockerlabs.pdf) |
