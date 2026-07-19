@@ -4,6 +4,6 @@
 
 ## Máquinas Resueltas
 
-| Plataforma | Máquina | Dificultad | Reporte Técnico |
+| Plataforma | Máquina | Reporte Técnico |
 | :--- | :--- | :--- | :--- |
-| Dockerlabs | **Obsession** | Muy Fácil | [Ver Reporte PDF](./Obsession-Dockerlabs.pdf) |
+| Dockerlabs | **Obsession** | [Ver Reporte PDF](./Obsession-Dockerlabs.pdf) |
