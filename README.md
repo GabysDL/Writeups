@@ -7,4 +7,4 @@
 | Plataforma | Máquina | Reporte Técnico |
 | :--- | :--- | :--- |
 | Dockerlabs | **Obsession** | [Ver Reporte PDF](./Obsession-Dockerlabs.pdf) |
-| Dockerlabs | **Upload** | [Ver Reporte PDF](./Upload-Dockerlabs.pdf) |
+| Dockerlabs | **Upload** | [Ver Reporte PDF](./Upload-DockerLabs.pdf) |
