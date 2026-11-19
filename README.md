@@ -13,3 +13,4 @@
 | Dockerlabs | **Balulero** | [Ver Reporte PDF](./Balulero-Dockerlabs.pdf) |
 | Dockerlabs | **Balufood** | [Ver Reporte PDF](./Balufood-Dockerlabs.pdf) |
 | Dockerlabs | **Redirect** | [Ver Reporte PDF](./Redirect-Dockerlabs.pdf) |
+| Dockerlabs | **Crossfi** | [Ver Reporte PDF](./Crossfi-Dockerlabs.pdf) |
