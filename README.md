@@ -16,3 +16,4 @@
 | Dockerlabs | **Crossfi** | [Ver Reporte PDF](./Crossfi-Dockerlabs.pdf) |
 | Dockerlabs | **Ekisese** | [Ver Reporte PDF](./Ekisese-Dockerlabs.pdf) |
 | Dockerlabs | **Socialhub** | [Ver Reporte PDF](./Socialhub-Dockerlabs.pdf) |
+| Dockerlabs | **Smashing** | [Ver Reporte PDF](./Smashing-Dockerlabs.pdf) |
